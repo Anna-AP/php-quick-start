@@ -1,6 +1,7 @@
 {
     "name": "annaporte/php-quick-start",
     "version": "0.0.0",
+    "description": "This project is a proof of concept developed in PHP",
     "type": "project",
     "license": "MIT",
     "scripts": {
