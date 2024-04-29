@@ -1,0 +1,19 @@
+{
+    "name": "annaporte/php-quick-start",
+    "version": "0.0.0",
+    "type": "project",
+    "license": "MIT",
+    "scripts": {
+        "post-create-project-cmd": [
+            "php setup.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Anna-Angelique PORTE",
+            "email": "anna.dev.pro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
